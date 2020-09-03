@@ -1,6 +1,5 @@
 RENCANA KONTEN SECOND MASTER
 - Javascript
-  * ES6
   * jQuery
   * React
   * Vue
@@ -9,6 +8,8 @@ RENCANA KONTEN SECOND MASTER
   * MVC UNPAS
 - PHP Framework
   * Codeigniter UNPAS
+    ^ Versi 4
+- PHP (Bukan UNPAS)
   * Laravel
+    ^ Versi 7
   * Yii-2
-- Python
