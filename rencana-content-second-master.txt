@@ -1,0 +1,10 @@
+RENCANA KONTEN SECOND MASTER
+- Javascript
+  * ES6
+  * jQuery
+  * React
+- PHP OOP UNPAS
+- PHP MVC
+- Codeigniter
+- Laravel
+- Yii-2
