@@ -6,6 +6,8 @@ RENCANA KONTEN SECOND MASTER
 - PHP (UNPAS)
   * OOP UNPAS
   * MVC UNPAS
+- PHP Framework
   * Codeigniter UNPAS
-- Laravel
-- Yii-2
+  * Laravel
+  * Yii-2
+- Python
