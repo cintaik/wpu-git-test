@@ -3,8 +3,9 @@ RENCANA KONTEN SECOND MASTER
   * ES6
   * jQuery
   * React
-- PHP OOP UNPAS
-- PHP MVC
-- Codeigniter
+- PHP (UNPAS)
+  * OOP UNPAS
+  * MVC UNPAS
+  * Codeigniter UNPAS
 - Laravel
 - Yii-2
