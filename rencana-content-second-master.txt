@@ -3,6 +3,7 @@ RENCANA KONTEN SECOND MASTER
   * ES6
   * jQuery
   * React
+  * Vue
 - PHP (UNPAS)
   * OOP UNPAS
   * MVC UNPAS
