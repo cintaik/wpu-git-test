@@ -1,6 +1,8 @@
 RENCANA KONTEN SECOND MASTER
 - Javascript
-- React
+  * ES6
+  * jQuery
+  * React
 - PHP OOP UNPAS
 - PHP MVC
 - Codeigniter
